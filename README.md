@@ -1,4 +1,5 @@
 # Web-Design-Challenge
+<h1>PLEASE NOTE: I SUBMITTED THE ASSIGNMENT ON-TIME! I ADDED THE LINK TO THE GITHUB PAGE IN THE BCS PORTAL AFTER THE INITIAL SUBMISSION</h1>
 <h3>About this Project</h3>
 <ul>
 <li>This was a fairly straightforward project. Much of the code was repetitive after the index page and I was just cloning and modifying as needed.</li>
